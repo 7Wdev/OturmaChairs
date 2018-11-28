@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/7Wdev/OturmaChairs
+branches:
+- master
+projects:
+  OturmaChairs:
+    path: ""
+#7Wdev
+...
